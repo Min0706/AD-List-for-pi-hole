@@ -166,6 +166,7 @@ dantricdn.com
 api.miwifi.com
 api.network.apm.miwifi.com
 api.speed.miwifi.com
+api.network.apm.miwifi.com
 
  #UC Brower --------------------------------------------------------------------------------------------------------------------------------------------------------- 
 sf-ucc-upaas.ucweb.com
