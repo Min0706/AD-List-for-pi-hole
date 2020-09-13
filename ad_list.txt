@@ -1,4 +1,4 @@
-  #VN ads list
+ #VN ads list -------------------------------------------------------------------------------------------------------------------------------------------------------
 reward3656.suhum22.life
 7mad.7m.cn
 889win.com
@@ -159,8 +159,31 @@ yads.c.yimg.jp
 yads.yjtag.yahoo.co.jp
 yomedia.vn
 zryydi.com
+assets.msn.com
+dantricdn.com
 
-  #Spotify
+ #Mi Wifi -------------------------------------------------------------------------------------------------------------------------------------------------------
+api.miwifi.com
+api.network.apm.miwifi.com
+api.speed.miwifi.com
+
+ #UC Brower --------------------------------------------------------------------------------------------------------------------------------------------------------- 
+sf-ucc-upaas.ucweb.com
+px-intl.ucweb.com
+gjapplog.ucweb.com
+us-unpm-upaas.ucweb.com
+adn.insight.ucweb.com
+vps.ucweb.com
+logserver.insight.ucweb.com
+apiuccenter.ucweb.com
+
+ #Google ADs --------------------------------------------------------------------------------------------------------------------------------------------------------
+googleads.g.doubleclick.net
+www.googleadservices.com
+adservice.google.com
+clientservices.googleapis.com
+
+ #Spotify -----------------------------------------------------------------------------------------------------------------------------------------------------------
 audio-fac.spotify.com
 canonicalizer.ucsuri.tcs
 upgrade.spotify.com
