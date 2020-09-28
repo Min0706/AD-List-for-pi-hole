@@ -4,6 +4,7 @@ reward3656.suhum22.life
 889win.com
 8live.com
 ad.org.vn
+assets.msn.com
 ad.tiki.vn
 adasiaholdings.com
 adcolony.com
@@ -51,16 +52,19 @@ cgi.connect.qq.com
 click.vn
 coccoc.com
 coccocqc.com
+cdn.liftoff.io
 codeonclick.com
 crashlytics.com
 dangky888.com
 dangkycado.net
+dantricdn.com
 datcuoc247.com
 deltago.com
 dfnb-ads.com
 doolloob.com
 dtimaserver.vn
 duapps.com
+report.yukbacaberita.com
 eclick.vn
 edzhsqtas
 eltrack.pro
@@ -114,6 +118,7 @@ popclck.com
 popclck.org
 prizedeal2.info
 pussl10.com
+pubads.g.doubleclick.net
 refpacoj.xyz
 scorecardresearch.com
 securemetric.com
