@@ -183,6 +183,7 @@ adn.insight.ucweb.com
 vps.ucweb.com
 logserver.insight.ucweb.com
 apiuccenter.ucweb.com
+mynavi.ucweb.com
 
  #Google ADs --------------------------------------------------------------------------------------------------------------------------------------------------------
 googleads.g.doubleclick.net
