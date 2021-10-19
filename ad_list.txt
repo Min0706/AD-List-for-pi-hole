@@ -177,6 +177,7 @@ zryydi.com
 
  #UC Brower -------------------------------------------------------------------------------------------------------------------------------------
 adn.insight.ucweb.com
+bts-la.ucweb.com
 apiuccenter.ucweb.com
 gjapplog.ucweb.com
 logserver.insight.ucweb.com
